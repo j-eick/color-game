@@ -9,7 +9,7 @@
 - **Schwer:** Wähle aus 6 Möglichkeiten
 
 👉🏼 Bemerkung: <br>
-Das Spiel ist Teil eines JS-Kurses auf Udemy. Screenshots haben Schritt für Schritt zum Endergebnis geführt und man konnte sich entscheiden, ob man dem Beispielcode des Dozenten folgt oder es auf eigene Faust versucht. Ich hatte mich für letzteres entschieden.
+Das Spiel war Teil eines JS-Kurses auf Udemy. Screenshots haben Schritt für Schritt zum Endergebnis geführt und man konnte sich entscheiden, ob man dem Beispielcode des Dozenten folgt oder es auf eigene Faust versucht. Ich hatte mich für letzteres entschieden.
 
 Ton an 🔊 <br><br>
 
